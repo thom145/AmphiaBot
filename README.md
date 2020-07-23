@@ -2,9 +2,7 @@
 
 ![alt text](https://github.com/thom145/AmphiaBot/blob/master/image_1.jpg?raw=true)
 
-Created a Bot for work to quickly send 'standard' emails and add days to work to personal 
-calendar.
+## Features
+The tool is able to download the complete working scheduele from the companies website. This scheduele (excel file) will then be transformed into a csv file. Given the csv file the days on which I'm working are extracted and for each day a .json file is created which includes my name plus the shift for that day. Given the days that I have to work, all coworkers working on the same day will added to the .json file plus their corresponding shift. 
 
-# ToDo
-Website updated and now makes use of a token => automatic generation of a token needs to be realized.
-When sending a 'standard' email notify co-workers involved => email list, functionality to add them in cc 
+![alt text](https://github.com/thom145/AmphiaBot/blob/master/image_2.jpg?raw=true)
