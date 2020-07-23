@@ -1,4 +1,7 @@
 # AmphiaBot
+
+![alt text](https://github.com/thom145/AmphiaBot/blob/master/image_1.jpg?raw=true)
+
 Created a Bot for work to quickly send 'standard' emails and add days to work to personal 
 calendar.
 
